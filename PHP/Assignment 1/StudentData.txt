@@ -1,0 +1,28 @@
+1| Lên Phan Quang Hải|10-10-2000|9.7
+2| Nguyễn Ngọc Thủy Tiên|02-12-1998|4.2
+3| Đỗ Ngọc Anh|10-02-2002|4.5
+4| Đỗ Minh Phát|06-05-1999|6.0
+5| Hồ Nhật Minh|25-08-2001|7.3
+6| Vũ Như Ngọc|13-06-1997|5.3
+7| Lâm Bá Thịnh|03-10-2002|5.3
+8| Đặng Quốc Thiên|09-05-2002|6.7
+9| Trần Phương Anh|11-11-2001|8.7
+10| Nguyễn Anh Tuấn|30-02-1999|6.4
+11| Huỳnh Nguyễn Thủy Tiên|01-02-2003|4.1
+12| Nguyễn Thị Minh Ngọc|02-02-1999|4.9
+13| Nguyễn Hữu Quyền|03-08-2000|10.0
+14| Nguyễn Thị Thanh Huyền|28-09-2002|5.3
+15| Nguyễn Thị Phương|26-08-2001|5.6
+16| Nguyễn Hoàng Anh Tuấn|17-02-1997|7.8
+17| Nguyễn Hoài Linh|09-12-2002|4.8
+18| Trần Thị Cầm|24-12-2001|4.0
+19| Mai Nguyễn Quỳnh Trâm|18-06-2000|7.0
+20| Ngô Hoàng Hào|14-03-1998|6.2
+21| Nguyễn Đình Thanh|30-04-1997|5.7
+22| Nguyễn Việt Anh|31-03-2000|7.5
+23| Nguyễn Văn Dũng|23-07-1997|6.5
+24| Phan Minh Đạt|22-02-2002|8.9
+25| Nguyễn Ngọc Thùy Nhi|02-09-1999|6.2
+26| Nguyễn Văn Bảo Ngọc|12-12-1990|6.5
+27| Lam Quan An|01-05-1995|9.8
+28| bui thi nguyet nga|29-2-2000|2.9

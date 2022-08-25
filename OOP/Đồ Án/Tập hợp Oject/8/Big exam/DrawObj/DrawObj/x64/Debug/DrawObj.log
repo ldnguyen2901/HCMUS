@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  DrawObj.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\ellipse.h(22,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\ellipse.h(22,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\ellipse.h(22,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\ellipse.h(22,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Ellipse.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Ellipse.h(22,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Ellipse.h(22,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Ellipse.h(22,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Ellipse.h(22,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Point.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Point.cpp(34,24): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Point.cpp(34,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Point.cpp(36,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\DrawObj\Point.cpp(36,17): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  Generating Code...
+  DrawObj.vcxproj -> D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\DrawObj\x64\Debug\DrawObj.exe

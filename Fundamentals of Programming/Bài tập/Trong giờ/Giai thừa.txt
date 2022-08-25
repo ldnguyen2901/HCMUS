@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    int n;
+    long giaiThua = 1;
+    printf("Nhap so n: ");scanf_s("%d",&n);
+    for (int i = 1; i <= n; i++) {
+        giaiThua = giaiThua * i;
+    }
+    printf("Giai thua cua %d la %ld\n", n, giaiThua);
+    return 0;
+}

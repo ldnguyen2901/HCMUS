@@ -1,0 +1,8 @@
+﻿  Polyline.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\5\Polyline\Point.h(26,28): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\5\Polyline\Point.h(26,36): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\5\Polyline\Line.h(24,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\5\Polyline\Bezier.h(11,20): warning C4018: '<': signed/unsigned mismatch
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\5\Polyline\Bezier.h(44,16): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\5\Polyline\Bezier.h(50,15): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  Polyline.vcxproj -> D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\5\Polyline\Debug\Polyline.exe

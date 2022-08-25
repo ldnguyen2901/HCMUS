@@ -1,0 +1,12 @@
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\bin\Debug\SmartphoneManagement.exe.config
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\bin\Debug\SmartphoneManagement.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\bin\Debug\SmartphoneManagement.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.SuggestedBindingRedirects.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.Form1.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.Properties.Resources.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.GenerateResource.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab5\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.ResolveComReference.cache

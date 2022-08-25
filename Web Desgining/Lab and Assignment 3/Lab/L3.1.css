@@ -1,0 +1,68 @@
+@charset "utf-8";
+body,
+html {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    background: #a7a09a;
+}
+
+#wrap {
+    width: 750px;
+    margin: 0 auto;
+    background: #99c;
+}
+
+#header {
+    background: #ddd;
+    padding: 5px 10px;
+}
+
+#nav {
+    background: #c99;
+    padding: 5px 10px;
+}
+
+#nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#nav li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    background: #9c9;
+    width: 480px;
+    padding: 10px;
+    float: left;
+}
+
+#sidebar {
+    float: right;
+    width: 230px;
+    padding: 10px;
+    background: #c9c;
+}
+
+#footer {
+    background: #cc9;
+    clear: both;
+    padding: 5px 10px;
+}
+
+#footer p {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0 0 lem;
+}

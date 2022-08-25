@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+	long int k;
+	long int count = 0;
+	do
+	{
+		printf("Input Integer: "); scanf_s("%ld", &k);
+	} while (k < 0 && printf("Input Erorr \nPlease, try again\n\n"));
+
+	while (k >= 10)
+	{
+		k /= 10;
+		count++;
+	}
+	printf("Total number of Digits: %ld\n\n", count + 1);
+}

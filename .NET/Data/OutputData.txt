@@ -1,0 +1,8 @@
+
+BookID = BOOK14022020, 
+Title =  Su khung dien ,
+
+Author =  Chu Van An, 
+PublishedDate = 14/01/2020,
+
+Price = 1000 VND

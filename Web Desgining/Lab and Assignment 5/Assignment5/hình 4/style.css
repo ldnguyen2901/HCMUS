@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    background-color: #999;
+    width: 500px;
+    height: 500px;
+    margin-top: -366px;
+    margin-left: 200px;
+}
+.clock
+{
+    position: relative;
+    background-size: contain;
+
+}
+.clock img{
+    width: 500px;
+    height: 500px;
+}
+.h-hand
+{
+    position: absolute;
+    left: 247px;
+    top: 104px;
+    background-size: 20px 100px;
+    transform-origin: 50% 95%;
+}
+.h-hand img{
+    height: 150px;
+    width: 20px;
+}
+.m-hand
+{
+    position: absolute;
+    left: 240px;
+    top: 81px;
+    background-size: 20px 180px;
+    transform-origin: 50% 95%;
+}
+.m-hand img{
+    height: 171px;
+    width: 20px;
+}
+.s-hand
+{
+    position: absolute;
+    left: 240px;
+    top: 75px;
+    background-size: 30px 180px;
+    transform-origin: 45% 95%;
+}
+.s-hand img{
+    height: 180px;
+    width: 20px;
+}
+.Digital{
+    margin-top: 500px;
+    margin-left: 420px;
+
+}

@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+	int a, b;
+	printf("Input 2 Integers:\n");
+	scanf_s("%d\n%d", &a,&b);
+	if (a < b)
+	{
+		int temp = b;
+		b = a;
+		a = temp;
+	}
+	if (a == 0 || b == 0) printf("%d", a + b);
+	int r = a % b;
+	while (a != b)
+	{
+		if (a > b)a -= b;
+		else b -= a;
+	}
+	printf("Greatest Common Divisor of 2 Integers: %d", b);
+}

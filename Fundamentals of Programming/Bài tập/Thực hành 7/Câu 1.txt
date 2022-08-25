@@ -1,0 +1,35 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<time.h>
+#include<string.h>
+#include"MDebug.h"
+#include"FinishProject.h"
+#define max 1000
+void main()
+{ 
+    int a, b, sum = 50000;
+    printf("100 tin nhan dau tien duoc free\n");
+    printf("\nMoi tin nhan bi tinh phi 300/mess\n");
+    printf("\nMoi tin nhan bi tinh phi 400/mess\n");
+    printf("\nNhap so luong tin nhan cua 1 thue bao: "); scanf_s("%d", &a);
+    if (a > 0 && a <= 100)
+    {
+        printf("\nFREE");
+        b = 0;
+    }
+    else if (a > 100 && a <= 200)
+    {
+        b = (a - 100) * 300;
+        printf("\nchi phi phat sinh them: %d", b);
+    }
+    else if (a > 200)
+    {
+        b = 30000 + (a - 200) * 400;
+        printf("\nchi phi phat sinh them: %d", b);
+    }
+    sum += b;
+    printf("\n\nTong chi phi: %d\n", sum);
+}
+

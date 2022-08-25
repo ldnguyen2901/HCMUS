@@ -1,0 +1,28 @@
+body,
+html {
+    margin: 10;
+    padding: 10;
+    border: none;
+    box-sizing: border-box;
+}
+
+#menu1 {
+    list-style-type: none;
+    text-decoration-line: none;
+    display: flex;
+    margin-top: -90px;
+    color: #666666;
+}
+
+#menu2 {
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#menu1 li:hover {
+    text-align: center;
+    background: url("../Data/images_Lab03/menu_036_c.jpg");
+    height: 20px;
+    color: #3385ff;
+}

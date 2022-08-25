@@ -1,0 +1,13 @@
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\bin\Debug\ClassPlaneTicket.exe.config
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\bin\Debug\ClassPlaneTicket.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\bin\Debug\ClassPlaneTicket.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.csproj.SuggestedBindingRedirects.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.LoginForm.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.Properties.Resources.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.csproj.GenerateResource.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.AirTicketBooking.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab04\ClassPlaneTicket\ClassPlaneTicket\obj\Debug\ClassPlaneTicket.RegistrationForm.resources

@@ -1,0 +1,16 @@
+﻿  Polygon.cpp
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Ellipse.h(31,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Ellipse.h(31,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Ellipse.h(31,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Ellipse.h(31,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(83,9): warning C4101: 'a': unreferenced local variable
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(83,12): warning C4101: 'b': unreferenced local variable
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(144,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(145,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(155,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(155,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(155,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(155,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(167,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Draw_Objects_App\Polygon.cpp(168,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Draw_Objects_App.vcxproj -> D:\OneDrive - VNU-HCMUS\OOP\LT HĐT\Exercises\BTL\Debug\Draw_Objects_App.exe

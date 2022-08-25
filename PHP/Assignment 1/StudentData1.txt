@@ -1,0 +1,20 @@
+1|Pham Nguyen Phuong Duy|04-10-2001|10.0
+2|Chau Nguyen Bao Hoang|22-02-2001|10.0
+3|Phong Hữu Cảnh|06-07-2001|6.0
+4|Khoa Hiệp Hào|09-07-2000|5.0
+5|Bế Duy Mạnh|22-04-2001|6.0
+6|Quách Hoàng Nam|09-01-2001|4.0
+7|Diệp Thanh Huy|20-02-2001|4.0
+8|Chử Kiến Bình|07-08-2001|8.0
+9|Khương Hiếu Dụng|09-06-2001|7.8
+10|Chử Kiến Bình|18-07-2001|7.8
+11|Cam Việt Huy|06-04-2000|9.5
+12|Khúc Công Lập|15-07-2001|9.4
+13|Danh Trọng Tấn|26-09-2001|7.5
+14|Lều Trường Thành|07-10-2001|8.5
+15|Đào Thiện Nhân|19-04-2001|8.5
+16|Mạch Bình Quân|10-10-2001|7.8
+17|Hồ Xuân Hiếu|03-06-2001|4.5
+18|Hình Việt Thanh|27-04-2001|10.0
+19|Cồ Lập Thành|28-03-2001|9.5
+20|Hồ Thanh Phong|30-05-2000|6.5

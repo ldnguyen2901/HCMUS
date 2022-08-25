@@ -1,0 +1,29 @@
+﻿  Main.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(51,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(53,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(55,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(57,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(59,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(61,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(63,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(65,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(67,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(69,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(75,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(79,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(82,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(86,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(88,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Main.cpp(181,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Form.h(7,20): warning C4018: '<': signed/unsigned mismatch
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Form.h(23,20): warning C4018: '<': signed/unsigned mismatch
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Form.h(27,10): warning C4018: '<': signed/unsigned mismatch
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Form.h(29,27): warning C4018: '<=': signed/unsigned mismatch
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Form.h(106,20): warning C4018: '<': signed/unsigned mismatch
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Project18\Source.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Stack.cpp
+  Generating Code...
+  Project18.vcxproj -> D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\2\19110073_LeChiHieu_BTLonSo2_K2019\Debug\Project18.exe

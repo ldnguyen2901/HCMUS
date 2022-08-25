@@ -1,0 +1,13 @@
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\bin\Debug\ClassRegistrationApp.exe.config
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\bin\Debug\ClassRegistrationApp.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\bin\Debug\ClassRegistrationApp.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.csproj.SuggestedBindingRedirects.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.ClassSelectionForm.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.LoginForm.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.Properties.Resources.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.RegistrationForm.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.csproj.GenerateResource.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab4\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.pdb

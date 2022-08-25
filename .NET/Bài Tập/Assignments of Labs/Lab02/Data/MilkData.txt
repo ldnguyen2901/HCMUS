@@ -1,0 +1,4 @@
+MilkName: Milo
+Quantity: 16
+ProductionDate:5/10/2021
+ExpiredDate:5/4/2022

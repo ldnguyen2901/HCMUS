@@ -1,0 +1,23 @@
+Tại sao BOSUUTAP lại có tận 2 cái?
+Vì có thể MUON từ TPNT để có được BOSUUTAP
+và SOHUU có thể tự làm nên BOSUUTAP
+Mặc dù nó bị lặp nhưng nếu khắc phục ko lặp
+thì làm thế query rất là chậm 
+
+
+Cụ thể hơn là:
+
+Hai tác vụ sở hữu và mượn là hai business domain lớn, 
+với nghiệp vụ hoàn toàn khác nhau
+Đối với những nghiệp vụ tách biệt thì 
+nên cô lập trong nghiệp vụ đó
+Nên không thể có một table mà các tác vụ của hoạt động 
+sỡ hữu hay mượn dùng chung. 
+Vì table dùng chung sẽ khó nâng cấp sau này, 
+khi phát triển một tính năng mới bên sơ hữu 
+thì có thể ảnh hưởng chức năng bên mượn
+Riêng về góc độ kĩ thuật, việc tách bảng 
+để tránh tình trạng 1 table với dữ liệu quá lớn, 
+dẫn đến câu lệnh query chậm
+Ngoài ra , tách bảng còn giúp có thể viết các đoạn trigger
+hay đánh index để tăng tốc một số lệnh query sử dụng thường xuyên.

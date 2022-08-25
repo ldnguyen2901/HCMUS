@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta hcttp-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">STT</th>
+            <th scope="col">Tên hàng</th>
+            <th scope="col">Số lượng có</th>
+            <th scope="col">Đơn giá</th>
+            <th scope="col">Chọn mua</th>
+          </tr>
+        </thead>
+        <tbody id="my-table"></tbody>
+      </table>
+      <div class="float">
+        <label for="" class="soluong">Số lượng</label>
+        <input
+          type="number"
+          id="qty"
+          class="qty1"
+          name="qty11"
+          value="1"
+          min="1"
+          disabled
+        />
+
+        <input type="checkbox" id="vat" /><label
+          for="
+    "
+         class="soluong" >VAT</label
+        >
+        <button class="btn">OK</button>
+        <h2>TỔNG: <span>0</span></h2>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

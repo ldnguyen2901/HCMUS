@@ -1,0 +1,2 @@
+Tong chi phi di chuyen = 24
+Duong di ngan nhat cua do thi la: 1 -> 13 -> 10 -> 8 -> 12 

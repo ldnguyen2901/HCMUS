@@ -1,0 +1,23 @@
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\bin\Debug\LaptopManagement.exe.config
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\bin\Debug\LaptopManagement.exe
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\bin\Debug\LaptopManagement.pdb
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.ResolveComReference.cache
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.LaptopManagementForm.resources
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.Properties.Resources.resources
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.GenerateResource.cache
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.exe
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.pdb
+C:\Users\Hoang\source\repos\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\bin\Debug\LaptopManagement.exe.config
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\bin\Debug\LaptopManagement.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\bin\Debug\LaptopManagement.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.SuggestedBindingRedirects.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.ResolveComReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.LaptopManagementForm.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.Properties.Resources.resources
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.GenerateResource.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab05\LaptopManagement\LaptopManagement\obj\Debug\LaptopManagement.pdb

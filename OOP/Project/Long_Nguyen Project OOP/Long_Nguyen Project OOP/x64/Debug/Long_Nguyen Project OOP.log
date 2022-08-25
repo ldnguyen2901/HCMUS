@@ -1,0 +1,21 @@
+﻿  Long_Nguyen Project OOP.cpp
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(22,134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(22,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(22,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(22,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(61,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(61,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(66,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(66,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(66,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Ellipse.h(66,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(146,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(146,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(151,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(151,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(151,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(151,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(165,27): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\DaGiac.h(166,27): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\Long_Nguyen Project OOP\Long_Nguyen Project OOP.cpp(363,8): warning C4101: 'hpen': unreferenced local variable
+  Long_Nguyen Project OOP.vcxproj -> D:\HCMUS\Computer Science\OOP\Project\Long_Nguyen Project OOP\x64\Debug\Long_Nguyen Project OOP.exe

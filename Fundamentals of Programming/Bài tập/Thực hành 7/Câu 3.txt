@@ -1,0 +1,56 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<time.h>
+#include<string.h>
+#include"MDebug.h"
+#include"FinishProject.h"
+#define dim(a) (sizeof(a)/sizeof(a[0]))
+const int MAX = 1000;
+int lookup(const char a[][2][MAX], int n, const char* name)
+{
+	for (int i = 0; i < n; i++)
+		if (_strnicmp(a[i][0], name, strlen(name)) == 0)
+			return i;
+	return -1;
+}
+int main(int ac, char* av[])
+{
+	//const char* aNames[][1] = {
+	//	"Alabama","Alaska","Arizona","Arkansas","California" }
+	int i;
+	char cName[MAX];
+	static char aNames[][2][MAX] = {
+		"AL","Alabama",
+		"AK","Alaska",
+		"AZ","Arizona",
+		"AR","Arkansas",
+		"CA","California",
+		"CC","Con Cu"};
+	for (i = 0; i < dim(aNames); i++)
+		printf("%10s\t%s\n", aNames[i][0], aNames[i][1]);
+	if (ac > 1)
+	{
+		for (i = 1; i < ac; i++)
+		{
+			int k = lookup(aNames, dim(aNames), av[i]);
+			if (k >= 0)
+				printf("%s la: %s\n", aNames[k][1], aNames[k][0]);
+			else printf("Khong co %s trong list", av[i]);
+		}
+	}
+	else
+	{
+		printf("\nNhap ten viet tat cua tieu bang: "); gets_s(cName);
+		while (cName[0])
+		{
+			int k = lookup(aNames, dim(aNames), cName);
+			if (k >= 0)// Tim dau buoi
+				printf("%s la: %s\n", aNames[k][1], aNames[k][0]);
+			else printf("Khong co %s trong list\n", cName);
+			printf("\nNhap ten viet tat cua tieu bang: "); gets_s(cName);
+		}
+	}
+}
+

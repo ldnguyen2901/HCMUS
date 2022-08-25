@@ -1,0 +1,8 @@
+﻿  Draw_Objects_App.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\BTL\Draw_Objects_App\Ellipse.h(27,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\BTL\Draw_Objects_App\Ellipse.h(27,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\BTL\Draw_Objects_App\Ellipse.h(27,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\BTL\Draw_Objects_App\Ellipse.h(27,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\BTL\Draw_Objects_App\Draw_Objects_App.cpp(147,17): warning C4101: 'i': unreferenced local variable
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\BTL\Draw_Objects_App\Draw_Objects_App.cpp(386,14): warning C4101: 'hpen': unreferenced local variable
+  Draw_Objects_App.vcxproj -> D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\8\Big exam\BTL\Debug\Draw_Objects_App.exe

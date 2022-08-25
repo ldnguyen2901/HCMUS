@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+  }
+  
+  .container {
+    padding: 0 50px;
+  }
+  
+  .table {
+    border-radius: 10px;
+    border: 1px solid #2cccff;
+  }
+  
+  .table thead {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .table tbody {
+    text-align: center;
+  }
+  .table thead,
+  .table tbody {
+    color: #ffffff;
+    font-weight: 700;
+    background-image: linear-gradient(-45deg, #d66efd, #2cccff, #20e3b2);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+  }
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .btn {
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+    width: 200px;
+    line-height: 1.5;
+    background-image: linear-gradient(-90deg, #2cccff, #20e3b2);
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .qty1{
+      width: 40px;
+      margin: 0 20px 10px 10px;
+  }
+  
+  .float{
+      float: right;
+  }
+  
+  .soluong{
+      font-size: 15px;
+      font-weight: 700;
+  }
+  

@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main()
+{
+	int k, count = 1, a, b,c;
+	int s[1000];
+	scanf_s("%d", &k);
+	b = k;
+	c = k;
+	while (k >= 10)
+	{
+		k /= 10;
+		count++;
+	}
+	a = count / 3;
+	if (count % 3 == 1|| count % 3 == 2)a = a + 1;
+	for (int i = 1; i <= a; i++)
+	{
+		s[i] = b % 1000;
+		b = b / 1000;
+		//printf("%d,", s[i]);
+	}
+	for (int j = a; j >= 1; j--)
+		printf("%d,", s[j]); printf("\b");
+	return 0;
+}

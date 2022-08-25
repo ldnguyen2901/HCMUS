@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\Thanh Xuân Bài 2 OOP\main\main.cpp(55): warning C4715: 'priority': not all control paths return a value
+D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\Thanh Xuân Bài 2 OOP\main\main.cpp(137): warning C4715: 'calc_func': not all control paths return a value
+  main.vcxproj -> D:\HCMUS\Computer Science\OOP\Đồ Án\Tập hợp Oject\Thanh Xuân Bài 2 OOP\x64\Debug\main.exe

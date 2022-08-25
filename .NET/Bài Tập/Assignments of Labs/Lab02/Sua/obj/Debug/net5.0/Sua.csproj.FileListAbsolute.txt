@@ -1,0 +1,16 @@
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.AssemblyInfoInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.AssemblyInfo.cs
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\bin\Debug\net5.0\Sua.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\bin\Debug\net5.0\Sua.deps.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\bin\Debug\net5.0\Sua.runtimeconfig.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\bin\Debug\net5.0\Sua.runtimeconfig.dev.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\bin\Debug\net5.0\Sua.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\bin\Debug\net5.0\ref\Sua.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\bin\Debug\net5.0\Sua.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\ref\Sua.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab02\Sua\obj\Debug\net5.0\Sua.genruntimeconfig.cache

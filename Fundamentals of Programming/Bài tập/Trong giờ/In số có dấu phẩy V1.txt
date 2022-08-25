@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main()
+{
+	int n, b, a = 1;
+	printf("nhap: "); scanf_s("%d", &n);//n=12345
+	for (;;)
+	{
+		if (a > n)			//1>12345	1000000>12345
+		{
+			a /= 1000;					//1000
+			break;
+		}
+		a *= 1000;
+	}
+	while (a)
+	{
+		b = n / a;			//b=12345/1000
+		printf("%d,", b);	//123
+		n %= a;				//45
+		a /= 1000;			//1
+	}
+	printf("\b");
+	return 0;
+}

@@ -1,0 +1,16 @@
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.AssemblyInfoInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.AssemblyInfo.cs
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\bin\Debug\net5.0\StudentListManagement.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\bin\Debug\net5.0\StudentListManagement.deps.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\bin\Debug\net5.0\StudentListManagement.runtimeconfig.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\bin\Debug\net5.0\StudentListManagement.runtimeconfig.dev.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\bin\Debug\net5.0\StudentListManagement.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\bin\Debug\net5.0\ref\StudentListManagement.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\bin\Debug\net5.0\StudentListManagement.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\ref\StudentListManagement.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab1\StudentListManagement\obj\Debug\net5.0\StudentListManagement.genruntimeconfig.cache

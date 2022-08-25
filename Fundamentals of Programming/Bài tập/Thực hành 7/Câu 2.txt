@@ -1,0 +1,28 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<time.h>
+#include<string.h>
+#include"MDebug.h"
+#include"FinishProject.h"
+#define max 1000
+void input(char s[][max], unsigned int n)
+{
+	for (int i = 0; i <= n; i++)
+		fgets(s[i], max, stdin);
+}
+char getString(char s[][max], unsigned int m)
+{
+	return puts(s[m]);
+}
+void main()
+{
+	char s[max][max];
+	unsigned int n, m;
+	printf("nhap so luong chuoi ky tu: "); scanf_s("%d", &n);
+	input(s, n);
+	printf("\nChuoi duoc xuat trong %d chuoi la: ", n); scanf("%d", &m);
+	getString(s, m);
+}
+

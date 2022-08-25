@@ -1,0 +1,16 @@
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\bin\Debug\net5.0\SportsList.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\bin\Debug\net5.0\SportsList.deps.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\bin\Debug\net5.0\SportsList.runtimeconfig.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\bin\Debug\net5.0\SportsList.runtimeconfig.dev.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\bin\Debug\net5.0\SportsList.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\bin\Debug\net5.0\ref\SportsList.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\bin\Debug\net5.0\SportsList.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.AssemblyInfoInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.AssemblyInfo.cs
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\ref\SportsList.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Assignments of Labs\Lab01\SportsList\obj\Debug\net5.0\SportsList.genruntimeconfig.cache

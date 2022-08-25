@@ -1,0 +1,8 @@
+
+ MilkID = MILK5102021, 
+ MilkName =  Milo,
+
+ ProductionDate = 5/10/2021, 
+ ExpiredDate = 5/4/2022,
+
+ Quantity = 16

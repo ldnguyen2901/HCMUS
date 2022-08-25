@@ -1,0 +1,16 @@
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\bin\Debug\net5.0\Lab2.exe
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\bin\Debug\net5.0\Lab2.deps.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\bin\Debug\net5.0\Lab2.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\bin\Debug\net5.0\Lab2.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.pdb
+D:\HCMUS\Computer Science\.NET\Bài Tập\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
