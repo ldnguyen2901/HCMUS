@@ -1,0 +1,4 @@
+MTH10311	Mạng máy tính	20110001	Alice
+MTH10311	Mạng máy tính	20110002	Bob
+MTH10312	Cơ sở dữ liệu	20110002	Bob
+MTH10312	Cơ sở dữ liệu	20110003	Dave
